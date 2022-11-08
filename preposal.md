@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-I am, in general, fairly at a loss of what I can do. I am not sure if this idea would be too basic for a final project, but I was thinking of creating a sort of quiz (maybe personality-based, maybe informational) that a user could play and get a result based on their answers.
+Astrology compatibility calculator; Harold-and-the-Purple-Crayon-based visual novel (somehow incorporate how Harold draws things throughout the book); An akinator-type type program for a specific range (YouTubers, Twitch Streamers, fictional characters of a show, etc.); Personality-based quiz
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
@@ -10,4 +10,4 @@ N/A
 
 ## Do you have any questions of your own?
 
-What would a project look like for someone who is hypothetically behind in some of the lecture material? 
+Am I able to change my mind after the proposal? If so, what would be the latest date? What happens if I cannot complete what would be deamed complete-able given the time alloted for this project?  
