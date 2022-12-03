@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+MaryKate McLaughlin
 
 #### Your section leader's name
 
-TODO
+Xinwen Zhang
 
 #### Project title
 
-TODO
+Zodiac Synastry Calculator
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Learned how to create a website through VS Code, funtioning drop-down menus, learned how to create a form, learned different web styling.
 
 #### What have you not done for your project yet?
 
-TODO
+Research compatibility framework (which signs are more/less compatibile). I need to continue to learn more about coding within HTML files, and how to redirect the user to a different site once the form is submitted. 
 
 #### What problems, if any, have you encountered?
 
-TODO
+None so far, it's just a learning curve with a heavily restricted time limitation. 
