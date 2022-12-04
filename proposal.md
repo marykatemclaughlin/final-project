@@ -10,7 +10,7 @@ A website that calculates the synastry (or compatibility) of two individual's in
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-Following the Webpage vidoes by CS50, I will create a viable website that people can access and use. It will be able to take the information that the user inputs (birthday) to classify their astrological sign. The user will input 2 sets of information and the program will then calculate their compatibility based on the combination the user inputs. I'm not sure if I can work with python and HTML, but if not then I will have to learn how to do the calculations through java. The calculations will be on the backend and the user will just see hopefully aesthetically-pleasing input boxes and a compatibility score once they submit the form.
+Following the Webpage vidoes by CS50, I will create a viable website that people can access and use. It will be able to take the information that the user inputs (birthday) to classify their astrological sign. The user will input 2 sets of information and the program will then calculate their compatibility based on the combination the user inputs. I'm not sure if I can work with python and HTML, but if not then I will have to learn how to do the calculations through JavaScript. The calculations will be on the backend and the user will just see hopefully aesthetically-pleasing input boxes and a compatibility score once they submit the form.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -36,4 +36,4 @@ An aesthetically-looking website, with drop tab menus, for the user to select fr
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-I will follow the CS50x videos to become familiar with the appropriate programming tools and languages (HTML, CSS, Java, etc). I will need to figure out how to create a wesbite, organize texts and inputs on the website, and possibly learn about domains.I will need to research each sun sign and their compatibility with each other.  
+I will follow the CS50x videos to become familiar with the appropriate programming tools and languages (HTML, CSS, JavaScript, etc). I will need to figure out how to create a wesbite, organize texts and inputs on the website, and possibly learn about domains.I will need to research each sun sign and their compatibility with each other.  
